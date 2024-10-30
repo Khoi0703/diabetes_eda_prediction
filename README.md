@@ -33,27 +33,5 @@ The analysis includes:
 ## Requirements
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd <project-directory>
-   ```
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook <notebook-file>.ipynb
-   ```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
