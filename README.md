@@ -1,7 +1,3 @@
-Here's a sample README for your diabetes prediction project:
-
----
-
 # Diabetes Prediction Project
 
 ## Overview
